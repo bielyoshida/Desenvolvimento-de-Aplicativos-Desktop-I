@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-10-02-exercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34BD11FF-AB75-4607-BE12-C30679C0AE15}|DADI-10-02-exercicios\\DADI-10-02-exercicios.csproj|c:\\users\\user\\desenvolvimento-de-aplicativos-desktop-i\\dadi-10-02-exercicios\\dadi-10-02-exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BD11FF-AB75-4607-BE12-C30679C0AE15}|DADI-10-02-exercicios\\DADI-10-02-exercicios.csproj|solutionrelative:dadi-10-02-exercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-10-02-exercicios\\DADI-10-02-exercicios\\Program.cs",
+              "RelativeDocumentMoniker": "DADI-10-02-exercicios\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-10-02-exercicios\\DADI-10-02-exercicios\\Program.cs",
+              "RelativeToolTip": "DADI-10-02-exercicios\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T22:48:20.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

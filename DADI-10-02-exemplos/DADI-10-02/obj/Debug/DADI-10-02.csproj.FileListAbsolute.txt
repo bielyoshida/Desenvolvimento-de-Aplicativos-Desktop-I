@@ -1,0 +1,7 @@
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-10-02\DADI-10-02\obj\Debug\DADI-10-02.csproj.AssemblyReference.cache
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-10-02\DADI-10-02\obj\Debug\DADI-10-02.csproj.CoreCompileInputs.cache
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-10-02\DADI-10-02\bin\Debug\DADI-10-02.exe.config
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-10-02\DADI-10-02\bin\Debug\DADI-10-02.exe
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-10-02\DADI-10-02\bin\Debug\DADI-10-02.pdb
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-10-02\DADI-10-02\obj\Debug\DADI-10-02.exe
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-10-02\DADI-10-02\obj\Debug\DADI-10-02.pdb
