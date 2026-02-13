@@ -1,0 +1,7 @@
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-02\Array simples\Array simples\bin\Debug\Array simples.exe.config
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-02\Array simples\Array simples\bin\Debug\Array simples.exe
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-02\Array simples\Array simples\bin\Debug\Array simples.pdb
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-02\Array simples\Array simples\obj\Debug\Array simples.csproj.AssemblyReference.cache
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-02\Array simples\Array simples\obj\Debug\Array simples.csproj.CoreCompileInputs.cache
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-02\Array simples\Array simples\obj\Debug\Array simples.exe
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-02\Array simples\Array simples\obj\Debug\Array simples.pdb

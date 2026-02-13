@@ -1,0 +1,7 @@
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-02\Manu\Manu\bin\Debug\Manu.exe.config
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-02\Manu\Manu\bin\Debug\Manu.exe
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-02\Manu\Manu\bin\Debug\Manu.pdb
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-02\Manu\Manu\obj\Debug\Manu.csproj.AssemblyReference.cache
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-02\Manu\Manu\obj\Debug\Manu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-02\Manu\Manu\obj\Debug\Manu.exe
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-02\Manu\Manu\obj\Debug\Manu.pdb
