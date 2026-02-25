@@ -1,0 +1,7 @@
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Lista de Exercícios\Ex 1\Ex 1\bin\Debug\Ex 1.exe.config
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Lista de Exercícios\Ex 1\Ex 1\bin\Debug\Ex 1.exe
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Lista de Exercícios\Ex 1\Ex 1\bin\Debug\Ex 1.pdb
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Lista de Exercícios\Ex 1\Ex 1\obj\Debug\Ex 1.csproj.AssemblyReference.cache
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Lista de Exercícios\Ex 1\Ex 1\obj\Debug\Ex 1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Lista de Exercícios\Ex 1\Ex 1\obj\Debug\Ex 1.exe
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Lista de Exercícios\Ex 1\Ex 1\obj\Debug\Ex 1.pdb
