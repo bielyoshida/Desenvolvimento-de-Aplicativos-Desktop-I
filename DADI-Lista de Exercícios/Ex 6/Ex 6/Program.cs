@@ -11,7 +11,7 @@ namespace Ex_6
         class Aluno
         {
             public string nome { get; set; }
-            public double[] notas { get; set; } = new double[3];
+            public float[] notas { get; set; } = new float[3];
             public string situação { get; set; }
             public double media = 0;
 
@@ -49,19 +49,25 @@ namespace Ex_6
                 if(a.media > 6)
                 {
                     a.situação = "Aprovado";
+                    aprovados++;
                 }
                 else
                 {
                     a.situação = "Reprovado";
                 }
-
+                alunos.Add(a);
             }
                 
-
-            Console.WriteLine($"Nome do aluno: {a.nome}");
-            Console.WriteLine($"A maior nota é: {max}");
-            Console.WriteLine($"A menor nota é: {min}");
-
+            for (int j = 0; j < i; j++)
+            {
+                Console.WriteLine($"\nNome do aluno: {alunos[j].nome}");
+                Console.WriteLine($"A média dele(a) é: {alunos[j].media}");
+                Console.WriteLine($"A situação dele(a) é: {alunos[j].situação}");
+            }
+            Console.WriteLine($"\nA maior média foi do(a) aluno(a) {nomeMaior}");
+            Console.WriteLine($"A média dele(a) foi {maiorMedia}");
+            Console.WriteLine($"A quantidade de aprovados é {aprovados}");
+            Console.ReadKey();
         }
     }
 }
