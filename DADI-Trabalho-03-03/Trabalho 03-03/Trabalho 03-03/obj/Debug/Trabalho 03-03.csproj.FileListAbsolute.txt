@@ -1,0 +1,7 @@
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-03-03\Trabalho 03-03\Trabalho 03-03\bin\Debug\Trabalho 03-03.exe.config
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-03-03\Trabalho 03-03\Trabalho 03-03\bin\Debug\Trabalho 03-03.exe
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-03-03\Trabalho 03-03\Trabalho 03-03\bin\Debug\Trabalho 03-03.pdb
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-03-03\Trabalho 03-03\Trabalho 03-03\obj\Debug\Trabalho 03-03.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-03-03\Trabalho 03-03\Trabalho 03-03\obj\Debug\Trabalho 03-03.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-03-03\Trabalho 03-03\Trabalho 03-03\obj\Debug\Trabalho 03-03.exe
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-03-03\Trabalho 03-03\Trabalho 03-03\obj\Debug\Trabalho 03-03.pdb
