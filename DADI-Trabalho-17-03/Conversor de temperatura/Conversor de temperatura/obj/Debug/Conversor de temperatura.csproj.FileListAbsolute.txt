@@ -1,0 +1,10 @@
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-17-03\Conversor de temperatura\Conversor de temperatura\bin\Debug\Conversor de temperatura.exe.config
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-17-03\Conversor de temperatura\Conversor de temperatura\bin\Debug\Conversor de temperatura.exe
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-17-03\Conversor de temperatura\Conversor de temperatura\bin\Debug\Conversor de temperatura.pdb
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-17-03\Conversor de temperatura\Conversor de temperatura\obj\Debug\Conversor de temperatura.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-17-03\Conversor de temperatura\Conversor de temperatura\obj\Debug\Conversor_de_temperatura.Properties.Resources.resources
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-17-03\Conversor de temperatura\Conversor de temperatura\obj\Debug\Conversor de temperatura.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-17-03\Conversor de temperatura\Conversor de temperatura\obj\Debug\Conversor de temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-17-03\Conversor de temperatura\Conversor de temperatura\obj\Debug\Conversor de temperatura.exe
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-17-03\Conversor de temperatura\Conversor de temperatura\obj\Debug\Conversor de temperatura.pdb
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-17-03\Conversor de temperatura\Conversor de temperatura\obj\Debug\Conversor_de_temperatura.FrmMain.resources

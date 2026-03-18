@@ -1,0 +1,10 @@
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-03\projeto 1\projeto 1\bin\Debug\projeto 1.exe.config
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-03\projeto 1\projeto 1\bin\Debug\projeto 1.exe
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-03\projeto 1\projeto 1\bin\Debug\projeto 1.pdb
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-03\projeto 1\projeto 1\obj\Debug\projeto 1.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-03\projeto 1\projeto 1\obj\Debug\projeto_1.Properties.Resources.resources
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-03\projeto 1\projeto 1\obj\Debug\projeto 1.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-03\projeto 1\projeto 1\obj\Debug\projeto 1.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-03\projeto 1\projeto 1\obj\Debug\projeto 1.exe
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-03\projeto 1\projeto 1\obj\Debug\projeto 1.pdb
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-03\projeto 1\projeto 1\obj\Debug\projeto_1.FrmPrincipal.resources
