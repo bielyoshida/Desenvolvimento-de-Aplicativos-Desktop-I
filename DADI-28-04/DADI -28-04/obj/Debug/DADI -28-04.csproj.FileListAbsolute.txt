@@ -1,0 +1,10 @@
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-28-04\DADI -28-04\bin\Debug\DADI -28-04.exe.config
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-28-04\DADI -28-04\bin\Debug\DADI -28-04.exe
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-28-04\DADI -28-04\bin\Debug\DADI -28-04.pdb
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-28-04\DADI -28-04\obj\Debug\DADI -28-04.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-28-04\DADI -28-04\obj\Debug\DADI__28_04.Form1.resources
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-28-04\DADI -28-04\obj\Debug\DADI__28_04.Properties.Resources.resources
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-28-04\DADI -28-04\obj\Debug\DADI -28-04.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-28-04\DADI -28-04\obj\Debug\DADI -28-04.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-28-04\DADI -28-04\obj\Debug\DADI -28-04.exe
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-28-04\DADI -28-04\obj\Debug\DADI -28-04.pdb

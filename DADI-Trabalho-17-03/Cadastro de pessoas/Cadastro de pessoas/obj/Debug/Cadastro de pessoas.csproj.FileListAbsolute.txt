@@ -1,0 +1,10 @@
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-17-03\Cadastro de pessoas\Cadastro de pessoas\bin\Debug\Cadastro de pessoas.exe.config
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-17-03\Cadastro de pessoas\Cadastro de pessoas\bin\Debug\Cadastro de pessoas.exe
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-17-03\Cadastro de pessoas\Cadastro de pessoas\bin\Debug\Cadastro de pessoas.pdb
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-17-03\Cadastro de pessoas\Cadastro de pessoas\obj\Debug\Cadastro de pessoas.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-17-03\Cadastro de pessoas\Cadastro de pessoas\obj\Debug\Cadastro_de_pessoas.FrmMain.resources
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-17-03\Cadastro de pessoas\Cadastro de pessoas\obj\Debug\Cadastro_de_pessoas.Properties.Resources.resources
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-17-03\Cadastro de pessoas\Cadastro de pessoas\obj\Debug\Cadastro de pessoas.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-17-03\Cadastro de pessoas\Cadastro de pessoas\obj\Debug\Cadastro de pessoas.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-17-03\Cadastro de pessoas\Cadastro de pessoas\obj\Debug\Cadastro de pessoas.exe
+C:\Users\Gabriel\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-Trabalho-17-03\Cadastro de pessoas\Cadastro de pessoas\obj\Debug\Cadastro de pessoas.pdb
