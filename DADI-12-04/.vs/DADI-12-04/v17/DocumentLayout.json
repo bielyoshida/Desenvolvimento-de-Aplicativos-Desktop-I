@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\DADI-12-04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|c:\\users\\user\\source\\repos\\dadi-12-04\\dadi-12-04\\frmcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|solutionrelative:dadi-12-04\\frmcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|c:\\users\\user\\source\\repos\\dadi-12-04\\dadi-12-04\\frmaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|solutionrelative:dadi-12-04\\frmaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|c:\\users\\user\\source\\repos\\dadi-12-04\\dadi-12-04\\frmprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|solutionrelative:dadi-12-04\\frmprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|c:\\users\\user\\source\\repos\\dadi-12-04\\dadi-12-04\\frmcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|solutionrelative:dadi-12-04\\frmcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|c:\\users\\user\\source\\repos\\dadi-12-04\\dadi-12-04\\frmaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|solutionrelative:dadi-12-04\\frmaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|c:\\users\\user\\source\\repos\\dadi-12-04\\dadi-12-04\\frmaluno.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|solutionrelative:dadi-12-04\\frmaluno.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|c:\\users\\user\\source\\repos\\dadi-12-04\\dadi-12-04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|solutionrelative:dadi-12-04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|c:\\users\\user\\source\\repos\\dadi-12-04\\dadi-12-04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|solutionrelative:dadi-12-04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|c:\\users\\user\\source\\repos\\dadi-12-04\\dadi-12-04\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|solutionrelative:dadi-12-04\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|c:\\users\\user\\source\\repos\\dadi-12-04\\dadi-12-04\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|solutionrelative:dadi-12-04\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmCurso.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DADI-12-04\\DADI-12-04\\FrmCurso.cs",
+              "RelativeDocumentMoniker": "DADI-12-04\\FrmCurso.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DADI-12-04\\DADI-12-04\\FrmCurso.cs",
+              "RelativeToolTip": "DADI-12-04\\FrmCurso.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T23:35:01.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAluno.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DADI-12-04\\DADI-12-04\\FrmAluno.cs",
+              "RelativeDocumentMoniker": "DADI-12-04\\FrmAluno.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DADI-12-04\\DADI-12-04\\FrmAluno.cs",
+              "RelativeToolTip": "DADI-12-04\\FrmAluno.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T23:23:18.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmProfessor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DADI-12-04\\DADI-12-04\\FrmProfessor.cs",
+              "RelativeDocumentMoniker": "DADI-12-04\\FrmProfessor.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DADI-12-04\\DADI-12-04\\FrmProfessor.cs [Design]",
+              "RelativeToolTip": "DADI-12-04\\FrmProfessor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T23:18:50.637Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCurso.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DADI-12-04\\DADI-12-04\\FrmCurso.cs",
+              "RelativeDocumentMoniker": "DADI-12-04\\FrmCurso.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DADI-12-04\\DADI-12-04\\FrmCurso.cs [Design]",
+              "RelativeToolTip": "DADI-12-04\\FrmCurso.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T23:18:30.627Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAluno.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DADI-12-04\\DADI-12-04\\FrmAluno.cs",
+              "RelativeDocumentMoniker": "DADI-12-04\\FrmAluno.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DADI-12-04\\DADI-12-04\\FrmAluno.cs [Design]",
+              "RelativeToolTip": "DADI-12-04\\FrmAluno.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T23:16:26.292Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmAluno.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DADI-12-04\\DADI-12-04\\FrmAluno.Designer.cs",
+              "RelativeDocumentMoniker": "DADI-12-04\\FrmAluno.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DADI-12-04\\DADI-12-04\\FrmAluno.Designer.cs",
+              "RelativeToolTip": "DADI-12-04\\FrmAluno.Designer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T23:19:14.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DADI-12-04\\DADI-12-04\\Form1.cs",
+              "RelativeDocumentMoniker": "DADI-12-04\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DADI-12-04\\DADI-12-04\\Form1.cs",
+              "RelativeToolTip": "DADI-12-04\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA0wCIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T23:09:32.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DADI-12-04\\DADI-12-04\\Form1.resx",
+              "RelativeDocumentMoniker": "DADI-12-04\\Form1.resx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DADI-12-04\\DADI-12-04\\Form1.resx",
+              "RelativeToolTip": "DADI-12-04\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-12T23:09:30.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DADI-12-04\\DADI-12-04\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DADI-12-04\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DADI-12-04\\DADI-12-04\\Form1.Designer.cs",
+              "RelativeToolTip": "DADI-12-04\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T23:09:28.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DADI-12-04\\DADI-12-04\\Form1.cs",
+              "RelativeDocumentMoniker": "DADI-12-04\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DADI-12-04\\DADI-12-04\\Form1.cs [Design]",
+              "RelativeToolTip": "DADI-12-04\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T23:07:28.412Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
