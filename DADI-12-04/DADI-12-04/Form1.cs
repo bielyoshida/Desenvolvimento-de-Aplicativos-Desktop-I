@@ -34,5 +34,6 @@ namespace DADI_12_04
             FrmProfessor s = new FrmProfessor();
             s.ShowDialog();
         }
+
     }
 }

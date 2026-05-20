@@ -10,3 +10,16 @@ C:\Users\User\source\repos\DADI-12-04\DADI-12-04\obj\Debug\DADI-12-04.csproj.Gen
 C:\Users\User\source\repos\DADI-12-04\DADI-12-04\obj\Debug\DADI-12-04.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\DADI-12-04\DADI-12-04\obj\Debug\DADI-12-04.exe
 C:\Users\User\source\repos\DADI-12-04\DADI-12-04\obj\Debug\DADI-12-04.pdb
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-04\DADI-12-04\bin\Debug\DADI-12-04.exe.config
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-04\DADI-12-04\bin\Debug\DADI-12-04.exe
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-04\DADI-12-04\bin\Debug\DADI-12-04.pdb
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-04\DADI-12-04\obj\Debug\DADI-12-04.csproj.AssemblyReference.cache
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-04\DADI-12-04\obj\Debug\DADI_12_04.Form1.resources
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-04\DADI-12-04\obj\Debug\DADI_12_04.FrmAluno.resources
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-04\DADI-12-04\obj\Debug\DADI_12_04.FrmCurso.resources
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-04\DADI-12-04\obj\Debug\DADI_12_04.FrmProfessor.resources
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-04\DADI-12-04\obj\Debug\DADI_12_04.Properties.Resources.resources
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-04\DADI-12-04\obj\Debug\DADI-12-04.csproj.GenerateResource.cache
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-04\DADI-12-04\obj\Debug\DADI-12-04.csproj.CoreCompileInputs.cache
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-04\DADI-12-04\obj\Debug\DADI-12-04.exe
+C:\Users\User\Desenvolvimento-de-Aplicativos-Desktop-I\DADI-12-04\DADI-12-04\obj\Debug\DADI-12-04.pdb
