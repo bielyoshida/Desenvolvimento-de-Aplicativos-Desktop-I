@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\dadi-12-04\\frmaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|solutionrelative:dadi-12-04\\frmaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\dadi-12-04\\frmprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|solutionrelative:dadi-12-04\\frmprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\FrmAluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|solutionrelative:DADI-12-04\\FrmAluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|solutionrelative:DADI-12-04\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\dadi-12-04\\frmcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|solutionrelative:dadi-12-04\\frmcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|solutionrelative:DADI-12-04\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DADI-12-04||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\dadi-12-04\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|solutionrelative:dadi-12-04\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\Form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|solutionrelative:DADI-12-04\\Form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\dadi-12-04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|solutionrelative:dadi-12-04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\FrmCurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|solutionrelative:DADI-12-04\\FrmCurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\FrmAluno.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E1DF5-1916-4841-8A61-660A28C7162B}|DADI-12-04\\DADI-12-04.csproj|solutionrelative:DADI-12-04\\FrmAluno.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "SQLQuery1.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-05-21T22:36:26.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DADI-12-04",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\DADI-12-04.csproj",
+              "RelativeDocumentMoniker": "DADI-12-04\\DADI-12-04.csproj",
+              "ToolTip": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\DADI-12-04.csproj",
+              "RelativeToolTip": "DADI-12-04\\DADI-12-04.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-21T22:36:26.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\App.config",
+              "RelativeDocumentMoniker": "DADI-12-04\\App.config",
+              "ToolTip": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\App.config",
+              "RelativeToolTip": "DADI-12-04\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-21T22:36:26.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\Program.cs",
+              "RelativeDocumentMoniker": "DADI-12-04\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\Program.cs",
+              "RelativeToolTip": "DADI-12-04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T22:36:26.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmCurso.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\FrmCurso.cs",
+              "RelativeDocumentMoniker": "DADI-12-04\\FrmCurso.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\FrmCurso.cs [Design]",
+              "RelativeToolTip": "DADI-12-04\\FrmCurso.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T22:36:26.366Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\Form1.cs",
+              "RelativeDocumentMoniker": "DADI-12-04\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\Form1.cs",
+              "RelativeToolTip": "DADI-12-04\\Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T22:36:26.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DADI-12-04\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\Form1.Designer.cs",
+              "RelativeToolTip": "DADI-12-04\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T22:36:26.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\Form1.resx",
+              "RelativeDocumentMoniker": "DADI-12-04\\Form1.resx",
+              "ToolTip": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\Form1.resx",
+              "RelativeToolTip": "DADI-12-04\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-21T22:36:26.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmAluno.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\FrmAluno.Designer.cs",
+              "RelativeDocumentMoniker": "DADI-12-04\\FrmAluno.Designer.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\FrmAluno.Designer.cs",
+              "RelativeToolTip": "DADI-12-04\\FrmAluno.Designer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T22:36:26.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmAluno.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\FrmAluno.cs",
+              "RelativeDocumentMoniker": "DADI-12-04\\FrmAluno.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\FrmAluno.cs [Design]",
+              "RelativeToolTip": "DADI-12-04\\FrmAluno.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T22:36:26.37Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmProfessor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\FrmProfessor.cs",
+              "RelativeDocumentMoniker": "DADI-12-04\\FrmProfessor.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\FrmProfessor.cs [Design]",
+              "RelativeToolTip": "DADI-12-04\\FrmProfessor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T22:36:26.371Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmAluno.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\FrmAluno.cs",
+              "RelativeDocumentMoniker": "DADI-12-04\\FrmAluno.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\FrmAluno.cs",
+              "RelativeToolTip": "DADI-12-04\\FrmAluno.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADgvxIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T22:36:26.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmCurso.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\FrmCurso.cs",
+              "RelativeDocumentMoniker": "DADI-12-04\\FrmCurso.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desenvolvimento-de-Aplicativos-Desktop-I\\DADI-12-04\\DADI-12-04\\FrmCurso.cs",
+              "RelativeToolTip": "DADI-12-04\\FrmCurso.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T22:36:26.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

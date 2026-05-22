@@ -16,6 +16,5 @@ namespace DADI_12_04
         {
             InitializeComponent();
         }
-
     }
 }
